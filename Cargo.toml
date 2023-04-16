@@ -1,0 +1,8 @@
+[package]
+name = "rust-tetris"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+piston_window = { git = "https://github.com/PistonDevelopers/piston_window", branch = "master" }
+
